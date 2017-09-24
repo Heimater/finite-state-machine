@@ -1,7 +1,5 @@
 class FSM {
-    
-     
-    
+   
     /**
      * Creates new FSM instance.Создает новый экземпляр FSM.
      * @param config.
