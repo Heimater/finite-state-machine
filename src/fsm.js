@@ -105,7 +105,7 @@ class FSM {
         this.allStates.push(this.arrayLost.pop());
         return true;
     }
--
+
     /**
      * Clears transition history. Очищает историю перехода
      */
